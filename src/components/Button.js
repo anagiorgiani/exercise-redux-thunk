@@ -17,6 +17,7 @@ class Button extends Component {
   }
 }
 
+
 Button.propTypes = {
   getImage: PropTypes.func.isRequired,
 };
